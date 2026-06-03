@@ -1,0 +1,6 @@
+Enterprise,100
+Halcon Milenario,250
+Apollo,3
+Voyager,2
+Atlantis,4
+PEPE,34

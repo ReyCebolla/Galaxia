@@ -1,0 +1,9 @@
+com\mycompany\galaxia\persistence\FicheroGalaxia.class
+com\mycompany\galaxia\view\AskData.class
+com\mycompany\galaxia\controller\GestorAgencia.class
+com\mycompany\galaxia\model\Astronauta.class
+com\mycompany\galaxia\model\Nave.class
+com\mycompany\galaxia\exception\GalaxiaException.class
+com\mycompany\galaxia\model\enums\Rango.class
+com\mycompany\galaxia\view\Menu.class
+com\mycompany\galaxia\Galaxia.class
